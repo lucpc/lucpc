@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=70a5fd&text=Lucas%20Pinheiro%20Caldas&reversal=false&textBg=false&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&fontAlignY=64&desc=Desenvolvedor%20Fullstack%20%7C%20Java%20%7C%20JavaScript%20%7C%20DevOps&descAlignY=80&descAlign=50"/>
-
 ### Olá, eu sou o Lucas! 👋
 
 👨‍💻 Desenvolvedor Fullstack e estudante de T.I. na UFRN. Construo aplicações web da concepção ao deploy, combinando um backend robusto em **Java/Spring** com interfaces de usuário funcionais. Minha experiência em projetos acadêmicos e pessoais me deu proficiência em **Docker, Kubernetes e CI/CD**.
