@@ -4,8 +4,6 @@
 
 👨‍💻 Desenvolvedor Fullstack e estudante de T.I. na UFRN. Construo aplicações web da concepção ao deploy, combinando um backend robusto em **Java/Spring** com interfaces de usuário funcionais. Minha experiência em projetos acadêmicos e pessoais me deu proficiência em **Docker, Kubernetes e CI/CD**.
 
-🚀 Vindo de uma carreira em Direito e com experiência em Suporte de TI, trago uma visão única para o desenvolvimento: foco na resolução de problemas reais do usuário e na criação de código limpo e sustentável.
-
 Este é o meu portfólio de projetos e aprendizados. Vamos nos conectar!
 
 <div align="center">
