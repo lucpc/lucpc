@@ -4,10 +4,6 @@
 
 Este é o meu portfólio de projetos e aprendizados. Vamos nos conectar!
 
-<div align="left">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucpc&show_icons=true&theme=tokyonight" alt="Lucas Caldas github stats" />
-</div>
-
 ### Ferramentas e Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
