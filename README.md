@@ -4,7 +4,7 @@
 
 Este é o meu portfólio de projetos e aprendizados. Vamos nos conectar!
 
-<div align="center">
+<div align="left">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucpc&show_icons=true&theme=tokyonight" alt="Lucas Caldas github stats" />
 </div>
 
