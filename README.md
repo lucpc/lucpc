@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas! 👋
 
-👨‍💻 Desenvolvedor Fullstack e estudante de T.I. na UFRN. Construo aplicações web da concepção ao deploy, combinando um backend robusto em **Java/Spring** com interfaces de usuário funcionais. Minha experiência em projetos acadêmicos e pessoais me deu proficiência em **Docker, Kubernetes e CI/CD**.
+👨‍💻 Desenvolvedor Fullstack, bacharel em Tecnologia da Informação e estudante de Engenharia de Software na UFRN. Construo aplicações web da concepção ao deploy, combinando um backend robusto em **Java/Spring** com interfaces de usuário funcionais. Minha experiência em projetos acadêmicos e pessoais me deu proficiência em **Docker, Kubernetes e CI/CD**.
 
 Este é o meu portfólio de projetos e aprendizados. Vamos nos conectar!
 
